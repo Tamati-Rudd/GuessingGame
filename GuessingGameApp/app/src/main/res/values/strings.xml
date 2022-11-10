@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="enter_username">Enter your username</string>
+    <string name="button_login">Login</string>
+    <string name="user_url">http://10.1.1.16:8080/GuessingGameService/webresources/guessinggame/user/</string>
+    <string name="enter_string">Enter a word or phrase</string>
+    <string name="button_submit">Submit</string>
+    <string name="add_instructions">Add a Word or Phrase to be Guessed</string>
+    <string name="enter_guess">Make a guess</string>
+    <string name="button_guess">Guess</string>
+    <string name="guess_instructions">Guess the Hidden Word or Phrase</string>
+    <string name="points_possible">Points for Correct Guess:</string>
+    <string name="get_hidden_url">http://10.1.1.16:8080/GuessingGameService/webresources/guessinggame/gethidden</string>
+    <string name="button_back">Back</string>
+    <string name="host_button">Host Match</string>
+    <string name="join_button">Join Match</string>
+    <string name="versus_heading">Versus Mode</string>
+    <string name="versus_instructions">Challenge another player over Bluetooth\nYou each pick a word for the other to guess\nThe first to guess their word wins\n Host or join a match below</string>
+    <string name="versus_button">Versus Mode</string>
+    <string name="select_word_instructions">Select the word(s) your opponent must guess</string>
+    <string name="select_word_heading">Select Opponent\'s Word</string>
+    <string name="select_word_button">Confirm</string>
+    <string name="choose_word_button">Choose Word</string>
+    <string name="ready_button">Ready</string>
+    <string name="select_word_hint">Select an item</string>
+</resources>
